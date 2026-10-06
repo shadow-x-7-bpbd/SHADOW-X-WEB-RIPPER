@@ -19,10 +19,10 @@ Use it for websites you own or have explicit permission to archive. Respect copy
 
 ## Installation
 
-Set your GitHub repository:
+**Set your GitHub repository:**
 
 ```bash
-export SHADOW_X_REPO="YOUR_GITHUB_USERNAME/SHADOW-X-WEB-RIPPER"
+export SHADOW_X_REPO="shadow-x-7-bpbd/SHADOW-X-WEB-RIPPER"
 ```
 
 Then:
